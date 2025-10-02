@@ -53,6 +53,3 @@ This is a standalone web application. No installation or special setup is requir
 3.  Open the `index.html` file in your favorite web browser.
 
 That's it! You can now use the calculator.
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details. This means you are free to use, modify, and distribute the code as you see fit.
