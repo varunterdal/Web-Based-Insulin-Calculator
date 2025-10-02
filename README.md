@@ -47,7 +47,7 @@ This is a standalone web application. No installation or special setup is requir
 
 1.  Clone the repository to your local machine:
     ```sh
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone https://github.com/varunterdal/Web-Based-Insulin-Calculator.git
     ```
 2.  Navigate to the project directory.
 3.  Open the `index.html` file in your favorite web browser.
